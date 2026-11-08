@@ -1,0 +1,9 @@
+# Python virtual environments
+venv/
+prototype_ScaleeLapse/venv/
+__pycache__/
+*.py[cod]
+
+# OS specific files
+.DS_Store
+Thumbs.db
