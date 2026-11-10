@@ -1,5 +1,6 @@
 # Python virtual environments
 venv/
+models/
 prototype_ScaleeLapse/venv/
 __pycache__/
 *.py[cod]
